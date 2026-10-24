@@ -7,7 +7,7 @@ cask "quotabar" do
   desc "Native macOS menu bar monitor for Codex and Claude Code usage"
   homepage "https://github.com/woodti/QuotaBar"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
   depends_on arch: :arm64
 
   app "QuotaBar.app"
