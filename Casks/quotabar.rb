@@ -1,6 +1,6 @@
 cask "quotabar" do
-  version "0.2.1"
-  sha256 "e030007feba8436d2b453593f7b24b91b578658c55cb66d095a8d8a07f6eb80b"
+  version "0.2.2"
+  sha256 "6d46325779927d6c57b6a9ec58b5fd1eaa66ac60549eae7d66d42a5ebf393d15"
 
   url "https://github.com/woodti/QuotaBar/releases/download/v#{version}/QuotaBar-#{version}-macos-arm64-notarized.dmg"
   name "QuotaBar"
